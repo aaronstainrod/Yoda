@@ -1,7 +1,6 @@
 # "YodaSpeak" app
 ### Android application (built in Android Studio)
-Tested on Samsung-SM-G850A Android 5.0.2 
-(Samsung Galaxy Alpha running Lollipop) API 21
+Tested on Samsung-SM-G850A Android 5.0.2
 API provided by MaShape user *ismaelc*
 https://market.mashape.com/ismaelc/yoda-speak
 
