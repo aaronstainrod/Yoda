@@ -141,7 +141,7 @@ public class MainActivity extends AppCompatActivity {
 
             try {
                 // Construct the URL for the Yoda Speak query
-                URL url = new URL("https://yoda.p.mashape.com/yoda?mashape-key=M8jd9ltGdQmsh8JbAnPdlODtuN5Jp12gNfnjsngP5T8YP9DfKh" + params[0]);
+                URL url = new URL("https://yoda.p.mashape.com/yoda?mashape-key=iGYZQBB98omshsfPQkJTcL5Px2v7p1MUqdmjsnRP5Zs0muNedo" + params[0]);
                 // Create the request to open YodaSpeak, and open the connection
                 urlConnection = (HttpURLConnection) url.openConnection();
                 urlConnection.setRequestMethod("GET");
